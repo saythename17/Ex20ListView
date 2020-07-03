@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="identifier">
+        <item>승철</item>
+        <item>정한</item>
+        <item>지수</item>
+        <item>준휘</item>
+        <item>순영</item>
+        <item>원우</item>
+        <item>지훈</item>
+        <item>명호</item>
+        <item>민규</item>
+        <item>석민</item>
+        <item>승관</item>
+        <item>한솔</item>
+        <item>찬</item>
+        <item>S.COUPS</item>
+        <item>JUNGHAN</item>
+        <item>JISU</item>
+        <item>JUN</item>
+        <item>HOSHI</item>
+        <item>WONWOO</item>
+        <item>WOOZI</item>
+        <item>D8</item>
+        <item>MINKYU</item>
+        <item>DK</item>
+        <item>BOO</item>
+        <item>VERNON</item>
+        <item>CHAN</item>
+
+    </string-array>
+</resources>

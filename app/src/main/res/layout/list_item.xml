@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--adapter 로 만들 view 의 (디자인)설계도면 하나만 설정해서 적용-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:text="Hello"
+    android:textSize="20sp"
+    android:textColor="#FAC"
+    android:padding="8dp">
+</TextView>
